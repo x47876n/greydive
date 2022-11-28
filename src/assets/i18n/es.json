@@ -1,0 +1,16 @@
+{
+  "TAREAS": {
+    "TIPO_TEST": "Test: Test de usabilidad en el sitio web",
+    "TRANSCRIPCION": "Transcripción",
+    "TITULO": "Tareas",
+    "ESCENARIO": "Escenario:"
+  },
+  "PREGUNTAS": {
+    "TAREA": "Tarea",
+    "RESPUESTA": "Respuesta:",
+    "DURACION": "Duración de la tarea:"
+  },
+  "ERROR": {
+    "SIN_SOPORTE": "Your browser does not support the video tag."
+  }
+}

@@ -1,0 +1,73 @@
+.logomenu {
+  padding-top: 3rem;
+  padding-bottom: 5rem;
+  cursor: pointer;
+}
+
+.embed {
+  overflow: scroll;
+  max-height: 300px;
+  max-width: 600px;
+  margin-bottom: 40px;
+  padding-right: 50px;
+  padding-bottom: 60px;
+  padding-left: 50px;
+  font-family: "GothamBook", Arial, sans-serif;
+  color: #fff;
+  font-size: 1rem;
+  line-height: 1.4rem;
+  font-weight: 400;
+  text-decoration: none;
+  text-transform: none;
+}
+
+.box {
+  display: block;
+  overflow: visible;
+  max-height: 300px;
+  max-width: 500px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding-bottom: 0;
+  font-family: GothamMedium, Arial, sans-serif;
+  color: #fff;
+  font-size: 1rem;
+  line-height: 1.4rem;
+  font-weight: 400;
+  text-decoration: none;
+  text-transform: none;
+}
+
+.border-tarea {
+  border-style: solid none none;
+  border-width: 1px 1px 1px 0;
+  border-color: #fff #000 #000 #2e2e2e;
+  border-radius: 0;
+}
+
+.tareas {
+  padding: 2rem;
+}
+
+.duracion-font {
+  color: #f6875b;
+}
+
+.btn {
+  width: 185px;
+  height: 52px;
+  margin: 0 10px;
+  border: 0;
+  border-radius: 16px;
+  font-size: 2rem;
+  cursor: pointer;
+}
+
+.btn.cursor {
+  background-color: #8b5e8e;
+  color: #ffffff;
+}
+
+.btn.cursor:hover {
+  background-color: rgba(0, 0, 0, 0.25);
+}
