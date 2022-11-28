@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/greydive/static/css/main.6646ea1f.css",
-    "main.js": "/greydive/static/js/main.621dd79f.js",
+    "main.js": "/greydive/static/js/main.0879c807.js",
     "static/media/GothamMedium.otf": "/greydive/static/media/GothamMedium.bcd733e6f8ebeb6a5e75.otf",
     "static/media/GothamBook.otf": "/greydive/static/media/GothamBook.e37cf59954e32a3f5401.otf",
     "index.html": "/greydive/index.html",
     "main.6646ea1f.css.map": "/greydive/static/css/main.6646ea1f.css.map",
-    "main.621dd79f.js.map": "/greydive/static/js/main.621dd79f.js.map"
+    "main.0879c807.js.map": "/greydive/static/js/main.0879c807.js.map"
   },
   "entrypoints": [
     "static/css/main.6646ea1f.css",
-    "static/js/main.621dd79f.js"
+    "static/js/main.0879c807.js"
   ]
 }
